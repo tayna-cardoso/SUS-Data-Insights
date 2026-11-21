@@ -1,6 +1,10 @@
-# 🏥 SUS Data Insights
+# SUS Data Insights 🏥
 
-### Análise Inteligente de Internações Hospitalares
+🚀 **[ACESSE O DASHBOARD ONLINE](https://sus-data-insights-u2wa9gulbqnsjgqy8oameb.streamlit.app/)**
+
+Projeto acadêmico de análise de dados de internações hospitalares, desenvolvido com Python, Streamlit, Pandas e Altair.
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
