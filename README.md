@@ -137,5 +137,5 @@ Projeto Integrador do curso de **Análise e Desenvolvimento de Sistemas (ADS)** 
 
 ## 👤 Autor
 
-**[Seu nome]**
-[LinkedIn](https://linkedin.com/in/[seu-perfil]) · [GitHub](https://github.com/[seu-usuario])
+**TAYNÁ CARDOSO**
+[LinkedIn](https://www.linkedin.com/in/tayn%C3%A1-cardoso-099b0215b/) · [GitHub][(https://github.com/[seu-usuario]](https://github.com/tayna-cardoso))
