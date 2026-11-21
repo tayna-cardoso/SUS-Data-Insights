@@ -1,0 +1,16 @@
+id_internacao;data_internacao;ano;mes;regiao;uf;causa_internacao;faixa_etaria;sexo;dias_permanencia;custo_total
+INT001;10/01/2025;2025;Janeiro;Nordeste;PI;Doenças Respiratórias;60+ anos;Feminino;5;R$ 1.450,00
+INT002;12/01/2025;2025;Janeiro;Sudeste;SP;Doenças Circulatórias;60+ anos;Masculino;8;R$ 3.200,50
+INT003;15/01/2025;2025;Janeiro;Sul;SC;Causas Externas / Traumas;12-19 anos;Masculino;3;R$ 1.100,00
+INT004;01/02/2025;2025;Fevereiro;Nordeste;CE;Doenças Infecciosas;0-11 anos;Feminino;4;R$ 980,20
+INT005;14/02/2025;2025;Fevereiro;Sudeste;RJ;Doenças Respiratórias;60+ anos;Masculino;6;R$ 1.850,00
+INT006;05/03/2025;2025;Março;Norte;AM;Doenças Infecciosas;0-11 anos;Masculino;7;R$ 2.100,00
+INT007;20/03/2025;2025;Março;Sul;PR;Doenças Circulatórias;60+ anos;Feminino;10;R$ 4.100,00
+INT008;02/04/2025;2025;Abril;Centro-Oeste;GO;Doenças Digestivas;20-59 anos;Masculino;4;R$ 1.250,00
+INT009;18/04/2025;2025;Abril;Nordeste;BA;Doenças Respiratórias;0-11 anos;Feminino;5;R$ 1.300,00
+INT10;10/05/2025;2025;Maio;Sudeste;MG;Doenças Respiratórias;60+ anos;Feminino;7;R$ 2.200,00
+INT011;22/05/2025;2025;Maio;Sul;RS;Doenças Respiratórias;60+ anos;Masculino;9;R$ 2.900,00
+INT012;01/06/2025;2025;Junho;Sudeste;SP;Doenças Respiratórias;60+ anos;Feminino;8;R$ 2.750,00
+INT013;15/06/2025;2025;Junho;Sul;SC;Doenças Circulatórias;60+ anos;Masculino;11;R$ 4.800,00
+INT014;28/06/2025;2025;Junho;Nordeste;PE;Causas Externas / Traumas;20-59 anos;Masculino;5;R$ 1.600,00
+INT015;04/07/2025;2025;Julho;Centro-Oeste;MT;Doenças Respiratórias;0-11 anos;Feminino;6;R$ 1.700,00
